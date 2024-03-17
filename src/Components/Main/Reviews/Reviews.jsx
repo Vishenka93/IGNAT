@@ -1,5 +1,5 @@
 import "../Reviews/reviews.scss";
-import { reviews } from "../../../consts/reviews";
+import { reviews } from "../../../Consts/reviews";
 import ReusableSlider from "../../ReusableSlider/ReusableSlider";
 
 function Rewiews() {

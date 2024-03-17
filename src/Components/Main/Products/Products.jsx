@@ -1,5 +1,5 @@
 import "../Products/products.scss";
-import { products } from "../../../consts/products";
+import { products } from "../../../Consts/products";
 import ReusableSlider from "../../ReusableSlider/ReusableSlider";
 
 function Products() {
