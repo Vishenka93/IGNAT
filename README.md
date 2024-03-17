@@ -5,6 +5,8 @@ Install dependencies by running the command npm install.
 Run the project by executing the command npm run dev.
 Main Components
 
+https://heartfelt-sfogliatella-5be91f.netlify.app/
+
 1.Header: A component displaying the main top part of the page, containing a logo, navigation menu, search, favorite items, and a shopping cart.
 2.Main: Contains components such as:
 Home (main page and slider)
